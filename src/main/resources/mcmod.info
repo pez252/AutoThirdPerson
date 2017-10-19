@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autothirdperson",
+  "name": "AutoThirdPerson",
+  "description": "An open source mod to automatically enter third person view.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/pez252/autothirdperson/",
+  "updateUrl": "https://github.com/pez252/autothirdperson/",
+  "authorList": ["autothirdperson"],
+  "credits": "pez252",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
